@@ -15,6 +15,11 @@ function Work() {
             link: "https://csir-ceeri-cafeteria.vercel.app/", 
             img: "/cafeteria.png", 
         },
+        {
+            name: "Xblogger'S",
+            link: "https://blogging-website-appwrite.vercel.app/", 
+            img: "/blog.png", 
+        },
     ];
 
     const handleMouseMove = (e) => {
@@ -23,7 +28,7 @@ function Work() {
 
     return (
         <div className="[font-family:'Syne'] mb-40 relative">
-            <div className="text-9xl font-bold">Works</div>
+            <div className="text-9xl font-bold mb-10">Works</div>
 
             <div className="flex flex-col text-5xl">
                 {projects.map((project, idx) => (
