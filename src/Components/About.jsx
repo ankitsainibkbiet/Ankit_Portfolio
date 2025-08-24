@@ -1,6 +1,6 @@
 function About() {
   return (
-    <div className="my-40">
+    <div className="mt-40 mb-28">
       <div className="[font-family:'Syne'] text-8xl font-bold mb-10">About Me</div>
       <div className="flex justify-center items-center space-x-20">
         <div className="w-[45%] text-3xl font-sans">
