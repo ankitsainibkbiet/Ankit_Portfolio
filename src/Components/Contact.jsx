@@ -31,8 +31,8 @@ function Contact() {
     };
 
     return (
-        <div className="bg-black min-h-screen text-white py-16 px-4">
-            <h1 className="[font-family:'Syne'] text-9xl font-bold mb-10">Get In Touch</h1>
+        <div id="contact" className="bg-black min-h-screen text-white md:py-16 px-4">
+            <h1 className="[font-family:'Syne'] text-6xl md:text-9xl font-bold mb-10">Get In Touch</h1>
             <div className="flex flex-col md:flex-row md:space-x-8 space-y-8 md:space-y-0">
 
                 <form onSubmit={handleSubmit} className="flex-1 bg-gray-900 p-6 rounded-lg shadow-md space-y-4 border border-gray-600">

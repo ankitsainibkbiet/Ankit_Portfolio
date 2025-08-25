@@ -39,13 +39,13 @@ function Highlights() {
     ];
 
     return (
-        <div className="my-20 mt-40">
-            <div className="[font-family:'Syne'] text-9xl font-bold mb-10">HighLights</div>
-            <div className="flex gap-10">
+        <div id="highlights" className="my-20 mt-40">
+            <div className="[font-family:'Syne'] text-[55px] md:text-9xl font-bold mb-10">HighLights</div>
+            <div className="flex flex-col md:flex-row gap-10">
                 {experiences.map((exp, index) => (
                     <div
                         key={index}
-                        className="border border-gray-600 rounded-2xl p-6 transition-all duration-300 hover:scale-[102%] hover:shadow-lg hover:shadow-amber-100 space-y-3 max-w-[30%] hover:bg-white/20"
+                        className="border border-gray-600 rounded-2xl p-6 transition-all duration-300 hover:scale-[102%] hover:shadow-lg hover:shadow-amber-100 space-y-3 md:max-w-[30%] hover:bg-white/20"
                     >
                         <h3 className="text-xl mb-1">{exp.title}</h3>
                         <p className="mb-1">{exp.company}</p>

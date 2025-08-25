@@ -10,8 +10,8 @@ function Hero() {
 
             {/* Hero Content */}
             <div className="relative bottom-20 h-full flex flex-col justify-center items-center ">
-                <p className="text-[170px] [font-family:'Syne'] font-bold mt-28">Ankit Saini</p>
-                <p className="text-2xl mt-[-2%]">FullStack Engineer blending performance, accessibility & design.</p>
+                <p className="text-6xl md:text-[170px] [font-family:'Syne'] font-bold mt-28 mb-10">Ankit Saini</p>
+                <p className="mx-5 text-center text-xl md:text-2xl md:mx-0 md:my-0 md:mt-[-2%]">FullStack Engineer blending performance, accessibility & design.</p>
             </div>
         </div>
     );
