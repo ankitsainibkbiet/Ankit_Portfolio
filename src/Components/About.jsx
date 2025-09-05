@@ -13,7 +13,7 @@ function About() {
             expertise includes React, Node.js, MongoDB, Tailwind CSS, and more.
           </p>
           <a
-            href="https://drive.google.com/file/d/1izldZhR1hc-kY1arnaYgryCqij0yK7mn/view?usp=sharing"
+            href="https://drive.google.com/file/d/1fUnNOjKkMMJaEu7eldwGWJnzsA7Pfi-H/view?usp=sharing"
             target="_blank"
             className="my-8 block border w-fit p-1 px-3 text-3xl [font-family:'Royal'] bg-white text-black font-bold rounded-xl"
           >
