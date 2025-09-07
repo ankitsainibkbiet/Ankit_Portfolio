@@ -8,17 +8,17 @@ function Work() {
         {
             name: "Trending Eyes",
             link: "https://www.trendingeyes.com/",
-            img: "/trending-eyes.png",
+            img: "/Images/trending-eyes.png",
         },
         {
             name: "Cafeteria Website",
             link: "https://csir-ceeri-cafeteria.vercel.app/",
-            img: "/cafeteria.png",
+            img: "/Images/cafeteria.png",
         },
         {
             name: "Xblogger'S",
             link: "https://blogging-website-appwrite.vercel.app/",
-            img: "/blog.png",
+            img: "/Images/blog.png",
         },
     ];
 

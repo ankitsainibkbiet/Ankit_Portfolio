@@ -3,7 +3,7 @@ function Skills() {
     const skills = [
         {
             name: "React.js",
-            image: "/react.jpg"
+            image: "/Images/react.jpg"
         },
         {
             name: "HTML",
@@ -11,67 +11,67 @@ function Skills() {
         },
         {
             name: "JavaScript",
-            image: "/javascript.png"
+            image: "/Images/javascript.png"
         },
         {
             name: "CSS",
-            image: "/css.png"
+            image: "/Images/css.png"
         },
         {
             name: "CPP",
-            image: "/cpp.png"
+            image: "/Images/cpp.png"
         },
         {
             name: "MongoDB   ",
-            image: "/mongodb.png"
+            image: "/Images/mongodb.png"
         },
         {
             name: "C",
-            image: "/c.png"
+            image: "/Images/c.png"
         },
         {
             name: "Tailwind",
-            image: "/tailwind.png"
+            image: "/Images/tailwind.png"
         },
         {
             name: "Express.js",
-            image: "/express.png"
+            image: "/Images/express.png"
         },
         {
             name: "SQL",
-            image: "/sql.png"
+            image: "/Images/sql.png"
         },
         {
             name: "Postman",
-            image: "/postman.png"
+            image: "/Images/postman.png"
         },
         {
             name: "RazerPay",
-            image: "/razerpay.png"
+            image: "/Images/razerpay.png"
         },
         {
             name: "MYSQL",
-            image: "/mysql.png"
+            image: "/Images/mysql.png"
         },
         {
             name: "Render",
-            image: "/render.png"
+            image: "/Images/render.png"
         },
         {
             name: "Node.js",
-            image: "/nodejs.png"
+            image: "/Images/nodejs.png"
         },
         {
             name: "Vercel",
-            image: "/vercel.png"
+            image: "/Images/vercel.png"
         },
         {
             name: "DSA",
-            image: "/dsa.png"
+            image: "/Images/dsa.png"
         },
         {
             name: "Git",
-            image: "/git.png"
+            image: "/Images/git.png"
         },
     ]
 

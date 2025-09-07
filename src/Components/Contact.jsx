@@ -81,7 +81,7 @@ function Contact() {
                 </form>
 
                 <div className="flex-1 flex flex-col space-y-6">
-                    <img src="/Contact.jpg" alt="Workspace" className="rounded-lg w-full object-cover border border-gray-600" />
+                    <img src="/Images/Contact.jpg" alt="Workspace" className="rounded-lg w-full object-cover border border-gray-600" />
                     <div className="bg-gray-900 p-4 rounded-lg flex items-center space-x-4">
                         <span className="text-white text-lg">📧</span>
                         <div>

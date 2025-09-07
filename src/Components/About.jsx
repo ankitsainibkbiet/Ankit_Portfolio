@@ -22,7 +22,7 @@ function About() {
         </div>
         <div className="md:w-[55%] mt-[-5%]">
           <img
-            src="/MyImg.jpg"
+            src="/Images/MyImg.jpg"
             alt="AboutImg-404"
             className="max-h-[70%] hover:scale-105 transition-all duration-300 md:ml-10"
           />

@@ -5,7 +5,7 @@ function Highlights() {
             title: "Web Developer Intern",
             company: "Birla Institute of Technology and Science (BITS), Pilani",
             duration: "June 2025 – Aug 2025",
-            image: "/web1.png",
+            image: "/Images/web1.png",
             details: [
                 "Handled and updated the frontend of BITS Convocation website",
                 "Assisted in hostel allocation for student families and registration process in Convocation",
@@ -16,7 +16,7 @@ function Highlights() {
             title: "Freelance Full Stack Web Developer",
             company: "TrendingEyes News Portal (Remote)",
             duration: "Jan 2025 – March 2025",
-            image: "/web2.jpg",
+            image: "/Images/web2.jpg",
             details: [
                 "Migrated an existing WordPress news site to a scalable MERN stack web application",
                 "Built an admin dashboard enabling creation, editing, and deletion of news items",
@@ -28,7 +28,7 @@ function Highlights() {
             title: "FullStack Web Developer Intern",
             company: "CSIR – Central Electronics Engineering Research Institute (CEERI), Pilani",
             duration: "June 2024 – Aug 2024",
-            image: "/web3.jpg",
+            image: "/Images/web3.jpg",
             details: [
                 "Revamped outdated cafeteria website UI with React and Tailwind CSS",
                 "Integrated Razorpay payment gateway for secure online payments",
