@@ -7,7 +7,7 @@ function Skills() {
         },
         {
             name: "HTML",
-            image: "/html.png"
+            image: "/Images/html.png"
         },
         {
             name: "JavaScript",

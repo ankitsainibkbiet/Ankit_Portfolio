@@ -86,7 +86,7 @@ function Contact() {
                         <span className="text-white text-lg">📧</span>
                         <div>
                             <p className="font-semibold">Email Me</p>
-                            <p className="text-gray-400">anktisainibkbiet2022@gmail.com</p>
+                            <p className="text-gray-400 text-wrap">anktisainibkbiet2022@gmail.com</p>
                         </div>
                     </div>
                     <div className="bg-gray-900 p-4 rounded-lg flex items-center space-x-4">
